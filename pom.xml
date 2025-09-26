@@ -1,0 +1,18 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>microservices-parent</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>EurekaServer</module>
+    <module>Kuchi</module>
+    <module>Samsung</module>
+	<module>Samsung2</module>
+	<module>Samsung3</module>
+	<module>Apple</module>
+	<module>Apple2</module>
+	<module>Apple3</module>
+  </modules>
+</project>
